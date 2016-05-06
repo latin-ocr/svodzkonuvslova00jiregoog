@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./svodzkonuvslova00jiregoog/svodzkonuvslova00jiregoog_0011.png"; bbox 0 0 771 1275; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 332 1145 534 1158">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 332 1145 534 1158">
+     <span class='ocr_line' id='line_1_1' title="bbox 332 1145 534 1158; baseline 0.005 -1"><span class='ocrx_word' id='word_1_1' title='bbox 332 1145 385 1158; x_wconf 63' lang='lat' dir='ltr'>Tidma</span> <span class='ocrx_word' id='word_1_2' title='bbox 395 1145 406 1157; x_wconf 78' lang='grc' dir='ltr'>Α</span> <span class='ocrx_word' id='word_1_3' title='bbox 420 1146 463 1158; x_wconf 70' lang='lat' dir='ltr'>naue</span> <span class='ocrx_word' id='word_1_4' title='bbox 473 1150 480 1157; x_wconf 87' lang='lat' dir='ltr'>v</span> <span class='ocrx_word' id='word_1_5' title='bbox 490 1145 534 1158; x_wconf 73' lang='grc' dir='ltr'>Ρηιε.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
